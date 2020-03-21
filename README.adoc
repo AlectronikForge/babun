@@ -1,4 +1,4 @@
-= Babun - a windows shell you will love [PROJECT DISCONTINUED]
+= Babun - a windows shell you will love
 
 image:https://img.shields.io/badge/maintainers-wanted-red.svg[Maintainers Wanted!, align="center", link=https://github.com/pickhardt/maintainers-wanted]
 
